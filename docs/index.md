@@ -1,5 +1,4 @@
-# MEGR 2157: Section L3D – Design Portfolio
-# Andrew Yang
+# Andrew Yang - MEGR 2157: Section L3D – Design Portfolio
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
