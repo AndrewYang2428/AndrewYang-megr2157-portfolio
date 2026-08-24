@@ -1,7 +1,11 @@
-# A1 – Build Your Professional Portfolio
+# A1: Build Your Professional Portfolio
 
 ## Objective
 
+- Understand the Analyze, Decide, and Communicate structure that is expected for all assignments in the portfolio.
+- Establish a clear standard for the quality of work that will be recorded and documented throughout the course.
+- Improve my documentation skills by practicing how to clearly and professionally record my engineering work.
+- Learn, improve, and grow as an engineer by developing the skills needed to professionally document and communicate engineering decisions.
 
 ## Analyze
 
