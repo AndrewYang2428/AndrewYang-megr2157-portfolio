@@ -39,7 +39,8 @@ The primary physical behavior is governed by tensile stress and strain. Its defo
 
 c). 
 
-[Insert Picture Here]
+<img width="3024" height="4032" alt="IMG_7709" src="https://github.com/user-attachments/assets/92a0103f-6155-4d74-bce1-ec8637c404de" />
+
 
 The patella band consists of one component that is in the shape of a ring made out of a highly durable and flexible silicone rubber. Therefore, a thicker or wider band can resist deformation more effectively, while the length determines how much the band stretches and how much compressive force it applies around the patellar tendon.
 
