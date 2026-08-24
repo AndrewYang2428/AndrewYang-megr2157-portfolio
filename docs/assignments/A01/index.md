@@ -52,15 +52,15 @@ The U.S. Patent No. 6,077,242, Patella Strap, was invented by Rhonda M. Falk and
 
   1. Homepage Identity:
 
-The homepage of this portfolio explains who the portfolio belongs to and what it will consist of   throughout the semester. It states that “this site is the working record of your engineering       design decisions across MEGR 2157.” This portfolio will serve as a place to document all of the    assignments completed for this course. It will also provide an opportunity to improve the          precision, clarity, and professional quality of how we document and defend our engineering work.   Overall, this portfolio is intended to help us develop our engineering documentation skills and    track our improvement throughout the semester. To accomplish this, our documentation will follow   the Analyze, Decide, and Communicate structure.   
+  The homepage of this portfolio explains who the portfolio belongs to and what it will consist of   throughout the semester. It states that “this site is the working record of your engineering       design decisions across MEGR 2157.” This portfolio will serve as a place to document all of the    assignments completed for this course. It will also provide an opportunity to improve the          precision, clarity, and professional quality of how we document and defend our engineering work.   Overall, this portfolio is intended to help us develop our engineering documentation skills and    track our improvement throughout the semester. To accomplish this, our documentation will follow   the Analyze, Decide, and Communicate structure.   
 
   2. One Intentional Customization:
 
-Some of the things that I changed on the portfolio template were the theme color, the index        title, and the assignment tabs. For the theme color, I changed the color from green to dark        blue. I included my name and the course section on the title as well to make it clear on who       this portfolio belongs to. The last thing that I changed was the names of the assignment tabs to   display exactly what the assignment is.   
+  Some of the things that I changed on the portfolio template were the theme color, the index        title, and the assignment tabs. For the theme color, I changed the color from green to dark        blue. I included my name and the course section on the title as well to make it clear on who       this portfolio belongs to. The last thing that I changed was the names of the assignment tabs to   display exactly what the assignment is.   
 
   3. Your Documentation Standard:
 
-For my portfolio, I want to present my work in a way that is clear, organized, and easy to         follow. My goal is to make it simple for readers to navigate through each section and quickly      find the information they need. I also want to communicate my ideas and engineering decisions in   a professional manner by providing clear explanations and supporting evidence.
+  For my portfolio, I want to present my work in a way that is clear, organized, and easy to         follow. My goal is to make it simple for readers to navigate through each section and quickly      find the information they need. I also want to communicate my ideas and engineering decisions in   a professional manner by providing clear explanations and supporting evidence.
 
 ## Communicate
 
