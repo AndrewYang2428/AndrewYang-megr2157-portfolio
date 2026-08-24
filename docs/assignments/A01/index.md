@@ -52,7 +52,7 @@ The U.S. Patent No. 6,077,242, Patella Strap, was invented by Rhonda M. Falk and
 
 1. Homepage Identity:
 
-   
+The homepage of this portfolio explains who the portfolio belongs to and what it will consist of throughout the semester. It states that “this site is the working record of your engineering design decisions across MEGR 2157.” This portfolio will serve as a place to document all of the assignments completed for this course. It will also provide an opportunity to improve the precision, clarity, and professional quality of how we document and defend our engineering work. Overall, this portfolio is intended to help us develop our engineering documentation skills and track our improvement throughout the semester. To accomplish this, our documentation will follow the Analyze, Decide, and Communicate structure.   
 
 3. One Intentional Customization:
 
@@ -64,3 +64,21 @@ For my portfolio, I want to present my work in a way that is clear, organized, a
 
 ## Communicate
 
+1.
+
+My name is Andrew Yang. 
+
+I am becoming an engineer who is motivated, eager to learn, hardworking, and focused on solving real-world problems. As a Mechanical Engineering student, I am passionate about gaining the knowledge and skills necessary to become a successful engineer and applying them to real-world situations. With these skills, I hope to collaborate with other engineers to develop practical and effective solutions that improve projects and solve engineering challenges.
+
+I chose Mechanical Engineering because I am interested in understanding how machines and systems work. I enjoy learning about the design and analysis behind everyday objects and technology. Mechanical engineering also gives me the opportunity to apply math and science to real-world problems and create practical solutions.
+
+I am becoming the engineer I envisioned when I first started my journey. Throughout my education and experiences, I have become more knowledgeable and confident in my abilities. I am developing the skills needed to analyze problems, make thoughtful design decisions, and communicate my ideas clearly. I want to continue improving both my technical knowledge and problem-solving skills. As I gain more experience, I hope to become an engineer who can contribute to meaningful projects and create solutions that have a positive impact.
+
+
+2.
+
+To defend an engineering decision means to explain and justify why you chose a particular design or solution. This includes supporting your decision with valid evidence and reasoning to explain why that specific choice was made. I have not personally made a major engineering decision before. However, during my internship, I participated in conferences and team meetings that allowed me to observe the process involved in making engineering decisions. Through these experiences, I was able to see how engineers discuss different options, consider evidence and possible outcomes, and work together to choose the best solution.
+
+3.
+
+In total I spent about 8 hours on this assignment. 
