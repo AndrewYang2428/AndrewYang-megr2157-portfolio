@@ -5,7 +5,7 @@
 
 ## Analyze
 
-Task A:
+Task A: Portfolio Analysis
 
 Website #1: https://jasontoups.github.io/
 
@@ -27,7 +27,28 @@ d). Professional Tone:
 
 Yes, both portfolios use language and organization appropriately for employers evaluating an engineering candidate. They communicate the engineers’ backgrounds, technical skills, project experience, and professional accomplishments. The portfolios also demonstrate technical knowledge through the projects and experiences presented. The visual organization and presentation help maintain reader engagement while communicating their interests and profession.
 
+Task B: Product Analysis
+
+a). 
+
+The product I chose is an elastic silicone patella band. Its primary function is to apply gentle pressure to the patellar tendon to help reduce strain and discomfort during physical activities. The elastic patella band works similarly to a rubber band because it stretches and provides resistance. However, it is specifically designed to provide controlled pressure and greater resistance to support the patellar tendon. 
+
+b). 
+
+The primary physical behavior is governed by tensile stress and strain. Its deformation can be approximated using Hooke's Law, although the actual tissue exhibits nonlinear and viscoelastic behavior due to its collagen structure. 
+
+c). 
+
+[Insert Picture Here]
+
+The patella band consists of one component that is in the shape of a ring made out of a highly durable and flexible silicone rubber. Therefore, a thicker or wider band can resist deformation more effectively, while the length determines how much the band stretches and how much compressive force it applies around the patellar tendon.
+
+d). 
+
+The U.S. Patent No. 6,077,242, Patella Strap, was invented by Rhonda M. Falk and William L. McNally. Two different alternatives for the silicone patella band were the adjustable patella strap with a compression buttress, as described in US20060069337A1. Another is a patella-femoral brace using an elastic sleeve and a conforming silicone support plate, described in U.S. Patent No. 5277697. The original engineer decided on this design for the silicone patella band because the geometry bonds to the knee and converts tension in the band into compression on the patella while increasing the contact area and reducing pressure concentration. 
+
 ## Decide
+
 
 
 ## Communicate
