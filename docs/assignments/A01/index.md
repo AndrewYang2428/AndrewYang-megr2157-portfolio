@@ -54,7 +54,7 @@ The U.S. Patent No. 6,077,242, Patella Strap, was invented by Rhonda M. Falk and
 
 U.S. Patent No. 6,077,242: https://patents.justia.com/patent/6077242
 
-U.S. Patent No 5,277,697: https://patents.google.com/patent/US5277697A/en?oq=U.S.+Patent+No.+5%2c277%2c697
+U.S. Patent No. 5,277,697: https://patents.google.com/patent/US5277697A/en?oq=U.S.+Patent+No.+5%2c277%2c697
 
 ## Decide
 
