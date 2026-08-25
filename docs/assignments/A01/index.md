@@ -52,6 +52,10 @@ d.
 
 The U.S. Patent No. 6,077,242, Patella Strap, was invented by Rhonda M. Falk and William L. McNally. Two different alternatives for the silicone patella band were the adjustable patella strap with a compression buttress, as described in US20060069337A1. Another is a patella-femoral brace using an elastic sleeve and a conforming silicone support plate, described in U.S. Patent No. 5277697. The original engineer decided on this design for the silicone patella band because the geometry bonds to the knee and converts tension in the band into compression on the patella while increasing the contact area and reducing pressure concentration. 
 
+U.S. Patent No. 6,077,242: https://patents.justia.com/patent/6077242
+
+U.S. Patent No 5,277,697: https://patents.google.com/patent/US5277697A/en?oq=U.S.+Patent+No.+5%2c277%2c697
+
 ## Decide
 
 1.
