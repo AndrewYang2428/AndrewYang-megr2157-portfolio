@@ -13,6 +13,7 @@
 
 ## Analyze
 
+For this assignment, I designed and modeled a truss/stress system based on the diagram shown below. Following the parameters given for this assignment, I am required to make a trapezoid with a length of 0.4m and height of 0.3m. 
 <img width="471" height="292" alt="image" src="https://github.com/user-attachments/assets/37275353-456c-47e5-9b8c-643f13dfee73" />
 
 
