@@ -13,9 +13,13 @@
 
 ## Analyze
 
+<img width="317" height="215" alt="image" src="https://github.com/user-attachments/assets/4d65d0ae-3261-48f2-9e0b-c5ccd3c1dd13" />
+
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+
+
 
 ## Communicate
 
