@@ -29,6 +29,13 @@ To solve for the internal forces, I drew a Free Body Diagram and calculated the 
 
 <img width="2760" height="3500" alt="IMG_7768" src="https://github.com/user-attachments/assets/11cfcad6-b3fd-4c9b-a198-534cc5bd922e" />
 
+## Topic:  Likelihood of Failure Modes in Truss Components
+
+Part One: Truss Members
+
+Part Two: Pin Connectors
+
+
 
 ## Communicate
 
