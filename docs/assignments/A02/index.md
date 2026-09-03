@@ -12,13 +12,14 @@
 - Document key engineering lessons learned from the process.
 
 ## Analyze
+
+For this assignment, I designed and modeled a truss system based on the diagram shown below. Following the parameters given for this assignment, I designed a trapezoid with a length of 0.4m and height of 0.3m. On this diagram, there is a pin force acting on point A, a roller force acting on point B, and there are 2 forces P acting on point C and D. With these given circumstances, I have to calculate the internal forces, solve for the cross-sectional area of the truss system, and approximate the weight truss of the system that I designed. 
+
 <p align='center'>
 <img width="471" height="292" alt="image" src="https://github.com/user-attachments/assets/37275353-456c-47e5-9b8c-643f13dfee73" />
 </p>
 
-For this assignment, I designed and modeled a truss system based on the diagram shown below. Following the parameters given for this assignment, I designed a trapezoid with a length of 0.4m and height of 0.3m. On this diagram, there is a pin force acting on point A, a roller force acting on point B, and there are 2 forces P acting on point C and D. With these given circumstances, I have to calculate the internal forces, solve for the cross-sectional area of the truss system, and approximate the weight truss of the system that I designed. 
-
-## Decide
+## Design
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
 I chose to design a trapezoid shaped truss system that had supporting beams going through the middle. The trapezoidal shape is what fit best for the diagram that was given. The beams in the middle allowed for more durability for the forces acting on point C and D of the diagram. 
@@ -35,6 +36,16 @@ To calculate the cross sectional area of the truss system, I have broken the inf
 <img width="2704" height="3500" alt="IMG_7769" src="https://github.com/user-attachments/assets/c9a4bba5-3343-4543-b68d-04181bf8a280" />
 
 This is a 3D CAD modeled version of the truss system that I designed and calculated. It gives a basic visual on what the truss system would look like and how we can model it using the values that we calculated. 
+
+<img width="1240" height="627" alt="Truss Members" src="https://github.com/user-attachments/assets/f60eb84d-5ce1-4d78-a606-47bdab0bf409" />
+
+
+CAD File: [a2_truss_diagram.prt.zip](https://github.com/user-attachments/files/31770020/a2_truss_diagram.prt.zip)
+
+
+<img width="866" height="660" alt="Pin" src="https://github.com/user-attachments/assets/83a29a6d-2c78-4bbd-9a8e-1d8ec7e3a2ea" />
+
+CAD File: [a2_pin_.prt.zip](https://github.com/user-attachments/files/31770049/a2_pin_.prt.zip)
 
 ## Topic:  Likelihood of Failure Modes in Truss Components
 
@@ -69,6 +80,16 @@ Part Two: Pin Connectors
 
 The expected failure mode of the pin is shear yielding. The pin connection is designed as a single shear connection, the pin is subjected primarily to shear at one shear plane. Given the yield strength, the safety factor, and the shear stress. If the pin exceeds any of these values, the pin will begin to plastically deform in shear. Similarly to the truss components, a design modification that can be made to reduce the likelihood of this failure is to increase the cross-sectional area or the diameter of the pin as well. Increasing the diameter or the cross-sectional area of the pin will reduce the likelihood of the pin yielding in shear. 
 
-## Communicate
+## Learn and Improve
 
+Learn:
+
+For this assignment, I learned how to use the calculated joints to find the cross-sectional area as well as the yield strength of the material. I learned how to break down a problem into known and unknown variables to get calculations. I leaned about the properties of A500 structural steel, how it can be affected, and the improvements that can be made to reduce the side effects. I learned how to apply what I've learned previously to the assignments and projects that I'm given now. 
+
+
+Improve:
+
+From this assignment, I see that I need to improve on many things. This includes learning how to use CAD to implement the material properties to find the weight approximations and ensuring that my geometric constraints are accurate to the calculations. I need to gain more knowledge and experience in CAD to be able to take advantage of all the tools and resources it has to offer. Having a strong background in Statics and Solids will also help improve my skills in solving the problems in this assignment. 
+
+This assignment took me 12 hours to complete. 
 
