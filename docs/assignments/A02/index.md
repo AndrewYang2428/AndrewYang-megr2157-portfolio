@@ -12,8 +12,9 @@
 - Document key engineering lessons learned from the process.
 
 ## Analyze
-
+<p align='center'>
 <img width="471" height="292" alt="image" src="https://github.com/user-attachments/assets/37275353-456c-47e5-9b8c-643f13dfee73" />
+</p>
 
 For this assignment, I designed and modeled a truss system based on the diagram shown below. Following the parameters given for this assignment, I designed a trapezoid with a length of 0.4m and height of 0.3m. On this diagram, there is a pin force acting on point A, a roller force acting on point B, and there are 2 forces P acting on point C and D. With these given circumstances, I have to calculate the internal forces, solve for the cross-sectional area of the truss system, and approximate the weight truss of the system that I designed. 
 
