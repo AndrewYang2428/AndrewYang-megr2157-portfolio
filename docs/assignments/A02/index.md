@@ -29,13 +29,44 @@ To solve for the internal forces, I drew a Free Body Diagram and calculated the 
 
 <img width="2760" height="3500" alt="IMG_7768" src="https://github.com/user-attachments/assets/11cfcad6-b3fd-4c9b-a198-534cc5bd922e" />
 
+To calculate the cross sectional area of the truss system, I have broken the information on the truss diagram down to what is known and the unknown variables that need to be calculated. Some of the information in this section was not given directly so calculations for this section can't be solved but once given this information, it is easy to calculate the missing variables like the minimum cross-sectional area and the approximated weight of truss. In the picture below, it shows how to calculate the cross-sectional area of the truss and the pins as well as the the approximated weight of truss and pins. 
+
+<img width="2704" height="3500" alt="IMG_7769" src="https://github.com/user-attachments/assets/c9a4bba5-3343-4543-b68d-04181bf8a280" />
+
+This is a 3D CAD modeled version of the truss system that I designed and calculated. It gives a basic visual on what the truss system would look like and how we can model it using the values that we calculated. 
+
 ## Topic:  Likelihood of Failure Modes in Truss Components
 
 Part One: Truss Members
 
+1. Identify the expected failure mode.
+
+
+2. State whether the material is ductile or brittle.
+
+
+
+3. Support your choice using stress comparison and simple reasoning.
+
+
+
+4. Propose a design modification that could reduce the likelihood of this failure.
+
+The expected failure mode of the A500 structural steel is yielding because when the normal stress produced by the applied axial force exceeds the material's yield strength, the member begins to permanently deform. Although, it does depend on the grade of A500 steel is used, the end result will be similar. The A500 structural steel is characterized as ductile. Ductile materials generally experience significant plastic deformation before fracture. When stress on a member reaches the yield strength, the steel beings to deform plastically rather than breaking immediately. If the steel is overloaded, it will yield before a fracture occurs. A design modification that can reduce the likelihood of this is to increase the cross sectional area of the truss members. This will distribute the forces throughout all of the truss members decreasing the amount of stress that they undergo. 
+
 Part Two: Pin Connectors
 
+1. Identify the expected failure mode of the pin.
 
+
+
+2. Support your answer with data from credible, known sources.
+
+
+
+3. Propose a design modification to reduce the likelihood of this failure.
+
+The expected failure mode of the pin is shear yielding. The pin connection is designed as a single shear connection, the pin is subjected primarily to shear at one shear plane. Given the yield strength, the safety factor, and the shear stress. If the pin exceeds any of these values, the pin will begin to plastically deform in shear. Similarly to the truss components, a design modification that can be made to reduce the likelihood of this failure is to increase the cross-sectional area or the diameter of the pin as well. Increasing the diameter or the cross-sectional area of the pin will reduce the likelihood of the pin yielding in shear. 
 
 ## Communicate
 
