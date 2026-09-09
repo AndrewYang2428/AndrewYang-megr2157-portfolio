@@ -1,4 +1,4 @@
-# A3 – [Topic]
+# A3 – Parametric and FEA
 
 ## Objective
 
@@ -10,7 +10,7 @@
 
 ## Outline:
 
-
+<img width="3500" height="2333" alt="IMG_7826" src="https://github.com/user-attachments/assets/f5d3b357-51ae-4085-be27-d2a2d479e7a2" />
 
 ## FEA on Aluminum Bar:
 
