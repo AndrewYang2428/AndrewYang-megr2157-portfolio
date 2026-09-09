@@ -12,19 +12,19 @@
 
 <img width="3500" height="2333" alt="IMG_7826" src="https://github.com/user-attachments/assets/f5d3b357-51ae-4085-be27-d2a2d479e7a2" />
 
-Before starting the CAD model of the bar, I set knowns and unknows of this project to get a clear understanding about what we knew and what we needed to solve for. For this project, we had to solve for the length of the bar. With the dimensions, it came out to be 44.21 inches. 
-
-<img width="1917" height="1020" alt="A3_Thickness" src="https://github.com/user-attachments/assets/7cb656e8-09e4-4836-8e1d-935e76efbc37" />
-
-The equation table in SolidWorks shows all of the given variables that is used to calculate the length of the bar. 
+Before starting the CAD model of the bar, I wrote down the knowns and unknows of this project to get a clear understanding about what we knew and what we needed to solve for. For this project, we had to solve for the length of the bar. With the dimensions, it came out to be 44.21 inches. 
 
 <img width="875" height="736" alt="A3_Dimensions" src="https://github.com/user-attachments/assets/c3acdf49-3943-455c-be50-02db22f7d1f5" />
 
-The diameter that I used was 0.5inches. 
+The diameter that I used to solve for the area and length of the aluminum bar was 0.5inches. After making a global variable for the diameter, I was able to plug this value into the equation table I was able to calculate the area of the aluminum bar. 
+
+<img width="1242" height="826" alt="A3_Equations" src="https://github.com/user-attachments/assets/b1c5e649-f30a-4453-8b17-ef7c1197d8e2" />
+
+The equation table in SolidWorks shows all of the global variables I had to create to calculate the length or depth of the bar. This made calculating the length or depth of the aluminum bar easy because all we had to do was plug in the formula to solve for the missing variable. If there are any changes that are needed to be made, we could simply change the values in this table to get new calculations and plug them in for where they were changed. 
 
 <img width="1917" height="1020" alt="A3_Thickness" src="https://github.com/user-attachments/assets/2f9ff3a2-f90d-4dd7-b61c-d1696e33d38a" />
 
-For the length or thickness of this, I used the calculated length from the equations table in SolidWorks. 
+Once the length or depth of the aluminum bar was calculated in the equation table, I could plug that value in to make the actual aluminum bar. This shows the actual length of the bar with the parameters that were given at the beginning of the project. 
 
 ## Finite Element Analysis(FEA) on Aluminum Bar:
 
