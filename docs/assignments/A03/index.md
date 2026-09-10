@@ -55,12 +55,20 @@ The max stress from the FEA Diagram is shown to be 2.26711ksi, the strength of a
 
 After making these calculations, there could be some issues with the material properties that is makes it have a high percent error. There could also be other factors that can't be determined but with this information, it shows that the slightest miscalculation can cause a big change is displacement. With these results, I would like to check  back with the simulation and ensure that the values shown are accurate but I would also like to double check my hand calculations to ensure that they are along the same range. One of the biggest differences that I seen from the values that I was given or calculated was the material property. This could be the cause of why there is a huge difference in displacement as well. 
 
-# Pin Hole:
-(5%) Now imagine a fairly substantial pin hole on the left side of the bar. Look up the stress concentration factor (Kt) for a hole in a flat bar in tension (Peterson's charts or Machinery's Handbook). Using your FEA's nominal stress away from the hole, estimate the peak stress at the hole and state whether it would still pass your safety factor. (Don’t redo the FEA!)
+### Pin Hole:
 
-(5%) Lessons Learned document mistakes made and actual time spent from start to finish.
+<img width="3500" height="1502" alt="IMG_7830" src="https://github.com/user-attachments/assets/8e041bab-87e7-4232-b92e-254f9c413b57" />
+
+Given the values to calculate the nominal stress and the value of Kt, I was able to estimate the peak stress at the hole. After calculating the safety factor for the nominal stress, it is less than the value of the safety factor of the maximum stress so I do believe that it passes the safety factor. 
+
+## Lessons Learned:
+
+For Project A3 - Parametric and FEA, we had to run a simulation in a CAD software to calculate the stress, strain, and displacement of an aluminum bar with specific parameters. For my project, I decided to run my simulation in SolidWorks. I never had any experience in SolidWorks so it took some time to get familiar with this CAD Software but with some tutorial videos I eventually found my way around it. I never ran a simulation in a CAD software so to run a simulation for this project I had to look at some videos on this to understand how to work the simulation correctly. Overall, SolidWorks makes it fairly simple and easy to follow along to complete this project. Inside of SolidWorks, we had to place our values in an equation table and create a formula to find the length or depth of our aluminum bar. This was new to me as well so to learn how to do this made calculations a lot easier find. Since this was my first time working in SolidWorks and running a simulation, I am sure that I made some issues along the way that caused me to get different numbers from what I calculated to the FEA but the overall process is simple to follow. For this project, it took about 4 hours to complete.
+
 
 ## Topic: Modify Design Parameters
 
 Cycle through #2, change each of the design parameters which include load, thickness, height and width. Keep the material and the fixture the same. Before you calculate, take a guess if the length will increase, decrease, or stay the same. (You will not be penalized for guessing incorrectly.)
+
+
 
