@@ -55,8 +55,9 @@ The max stress from the FEA Diagram is shown to be 2.26711ksi, the strength of a
 
 After making these calculations, there could be some issues with the material properties that is makes it have a high percent error. There could also be other factors that can't be determined but with this information, it shows that the slightest miscalculation can cause a big change is displacement. With these results, I would like to check  back with the simulation and ensure that the values shown are accurate but I would also like to double check my hand calculations to ensure that they are along the same range. One of the biggest differences that I seen from the values that I was given or calculated was the material property. This could be the cause of why there is a huge difference in displacement as well. 
 
-
+# Pin Hole:
 (5%) Now imagine a fairly substantial pin hole on the left side of the bar. Look up the stress concentration factor (Kt) for a hole in a flat bar in tension (Peterson's charts or Machinery's Handbook). Using your FEA's nominal stress away from the hole, estimate the peak stress at the hole and state whether it would still pass your safety factor. (Don’t redo the FEA!)
+
 (5%) Lessons Learned document mistakes made and actual time spent from start to finish.
 
 ## Topic: Modify Design Parameters
