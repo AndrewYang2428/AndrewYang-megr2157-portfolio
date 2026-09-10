@@ -28,6 +28,8 @@ Once the length or depth of the aluminum bar was calculated in the equation tabl
 
 ## Finite Element Analysis(FEA) on Aluminum Bar:
 
+[CAD Download File](File_Diagram.STL)
+
 ### Simulation:
 
 <img width="1917" height="1020" alt="A3_Comparision" src="https://github.com/user-attachments/assets/ec21bf32-7293-4879-ba55-9bc988bf3499" />
