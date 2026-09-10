@@ -68,7 +68,6 @@ For Project A3 - Parametric and FEA, we had to run a simulation in a CAD softwar
 
 ## Topic: Modify Design Parameters
 
-Cycle through #2, change each of the design parameters which include load, thickness, height and width. Keep the material and the fixture the same. Before you calculate, take a guess if the length will increase, decrease, or stay the same. (You will not be penalized for guessing incorrectly.)
-
+If we were to change the design parameters, the length of the aluminum bar will change depending on whether the parameters increased or decreased. When I increase the force between 300lbf - 500lbf, the length of the increased as I decrease the force but decreases when I increase the force. For the diameter of the aluminum bar, when I increase the diameter of the bar, the length of the bar increases as well. This makes the length dependent to the diameter of the aluminum bar. When you increase the parameters of the axial deflection and the diameter, the length increases with it. While, when you increase the force, the length decreases or it will increase when you decrease the force. Overall, when you change the parameters, the length will be affected in some way. 
 
 
