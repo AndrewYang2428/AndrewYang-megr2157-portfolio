@@ -30,6 +30,8 @@ Once the length or depth of the aluminum bar was calculated in the equation tabl
 
 ### Simulation:
 
+<img width="1917" height="1020" alt="A3_Comparision" src="https://github.com/user-attachments/assets/ec21bf32-7293-4879-ba55-9bc988bf3499" />
+
 With little knowledge working in SolidWorks and working with simulations, I had to learn how to move around pretty quickly to complete this section of the project. SolidWorks is pretty easy to navigate through so eventually I was able to make my aluminum bar for the simulation testing.
 
 <img width="1917" height="1021" alt="A3_Fixture" src="https://github.com/user-attachments/assets/c24a2ed8-15db-4171-be02-47afe5f21d11" />
