@@ -44,15 +44,17 @@ In this step of the simulation, you can apply external forces, torques, pressure
 
 Once you have selected the fixture and the external forces, you can then move onto meshing your object and running the simulation. This will give you the FEA Diagram that shows what happens to the object when the loaded force is applied to the object. When running this simulation, you can see where deformation occurs and where it is most stressed on the aluminum bar. 
 
+<img width="3500" height="1095" alt="IMG_7827" src="https://github.com/user-attachments/assets/d108d93d-89d7-4e80-b4cd-3afe507f83f4" />
+
+The max stress from the FEA Diagram is shown to be 2.26711ksi, the strength of aluminum is given as 40ksi. With this information, the safety factor was calculated to be 17.644. 
+
+
 ## Design Reflection:
 
-Report the axial deflection from your parametric hand-calculation and from your FEA. Calculate the percent difference between the two.
+<img width="3500" height="1034" alt="IMG_7829" src="https://github.com/user-attachments/assets/4481c329-507d-42b3-9b1c-2f8b70d4ce04" />
 
-If there is a meaningful discrepancy, identify at least one likely source (e.g., assumptions in the hand-calc, boundary conditions, mesh density, material property inputs).
+After making these calculations, there could be some issues with the material properties that is makes it have a high percent error. There could also be other factors that can't be determined but with this information, it shows that the slightest miscalculation can cause a big change is displacement. With these results, I would like to check  back with the simulation and ensure that the values shown are accurate but I would also like to double check my hand calculations to ensure that they are along the same range. One of the biggest differences that I seen from the values that I was given or calculated was the material property. This could be the cause of why there is a huge difference in displacement as well. 
 
-If the two values are essentially the same, explain why you'd expect them to agree for this geometry and loading (e.g., no stress concentrations, simple axial loading, coarse mesh still adequate for a uniform cross-section).
-
-Either way, state which result you'd trust more for this design and why.
 
 (5%) Now imagine a fairly substantial pin hole on the left side of the bar. Look up the stress concentration factor (Kt) for a hole in a flat bar in tension (Peterson's charts or Machinery's Handbook). Using your FEA's nominal stress away from the hole, estimate the peak stress at the hole and state whether it would still pass your safety factor. (Don’t redo the FEA!)
 (5%) Lessons Learned document mistakes made and actual time spent from start to finish.
