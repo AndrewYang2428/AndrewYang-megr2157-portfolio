@@ -5,6 +5,7 @@
 <p align='center'>
   <img width="49.5%" height="856" alt="Motor" src="https://github.com/user-attachments/assets/8025fa30-de21-4c96-b838-22a5b502daca" />
   <img width="49.5%" height="856" alt="Motor_Info" src="https://github.com/user-attachments/assets/e36a9dc9-ac47-4d30-bbc6-79a236032d12" />
+  <img width="807" height="392" alt="Motor_Drawing" src="https://github.com/user-attachments/assets/9f37d438-8d26-4d60-a89e-e82d017be8bd" />
 </p>
 
 ### Types of Motor Mounts:
@@ -18,8 +19,8 @@ Website #2: https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-m
 ### Material Information:
 
 - Material Type: PETG
-- Yield Strength:
-- Max Deflection:
+- Yield Strength: 30-50
+- Max Deflection: 0.30mm
 
 ## Feature 1:
 
