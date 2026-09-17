@@ -16,7 +16,7 @@ Website #2: https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-m
 
 ## Motor Mount Design:
 
-
+<img width="3500" height="1968" alt="IMG_8008" src="https://github.com/user-attachments/assets/12515644-a0f0-43ad-bb72-e3ea46143238" />
 
 ### Material Information:
 
@@ -25,9 +25,17 @@ Website #2: https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-m
 - Max Deflection: 0.30mm
 
 ## Feature 1:
-
 Known:
--
+- P: 300N
+- Max Deflection: 0.30mm
+- Material: PETG
+- Yield Strength: 30MPa-50MPa
+
+Unknown:
+- Cross-Sectional Area
+
+
+
 
 ## Feature 2:
 
