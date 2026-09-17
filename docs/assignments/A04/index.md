@@ -10,9 +10,9 @@
 
 ### Types of Motor Mounts:
 
-Website #1: https://www.bombayengg.net/knowledge-center/motor-mounting-types-explained-b3-b5-b14-v1-etc/
+Website #1: [https://www.bombayengg.net/knowledge-center/motor-mounting-types-explained-b3-b5-b14-v1-etc/](https://www.bombayengg.net/knowledge-center/motor-mounting-types-explained-b3-b5-b14-v1-etc/)
 
-Website #2: https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-mount-c-face-and-d-flange
+Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-mount-c-face-and-d-flange](https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-mount-c-face-and-d-flange)
 
 ## Motor Mount Design:
 
