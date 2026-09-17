@@ -75,8 +75,6 @@ This is the isometric view of my Motor Mount that I designed for this project in
 
 ### CAD File: [3D Motor Mount](A4_Motor_Mount.SLDPRT)
 
-## 2157 Students Only:
-
 ## Topic: Drawings
 
 <img width="927" height="717" alt="A4_Motor Mount_Drawing" src="https://github.com/user-attachments/assets/9a58a221-3daa-4036-ba1c-248ad5c2f7b6" />
