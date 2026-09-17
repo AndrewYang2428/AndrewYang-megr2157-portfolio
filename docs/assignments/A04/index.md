@@ -30,9 +30,15 @@ Known:
 - Max Deflection: 0.30mm
 - Material: PETG
 - Yield Strength: 30MPa-50MPa
+- E: 2100 MPa
+- Length: 44mm
+- Height: 44mm
+- Diameter: 18mm
 
 Unknown:
 - Cross-Sectional Area
+- Stress
+- Deflection
 
 
 
@@ -46,5 +52,6 @@ Unknown:
 ## 2157 Students Only:
 ### Topic: Drawings
 
+<img width="930" height="717" alt="A2_Motor_Mount_Drawing" src="https://github.com/user-attachments/assets/de841a25-8ae0-4592-bba1-e289916660ae" />
 
 
