@@ -16,7 +16,7 @@ Website #2: https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-m
 
 ## Motor Mount Design:
 
-<img width="3500" height="1968" alt="IMG_8008" src="https://github.com/user-attachments/assets/12515644-a0f0-43ad-bb72-e3ea46143238" />
+<img width="3500" height="2068" alt="IMG_8009" src="https://github.com/user-attachments/assets/09cfc88f-ba8c-4196-95c6-b1731424f529" />
 
 ### Material Information:
 
