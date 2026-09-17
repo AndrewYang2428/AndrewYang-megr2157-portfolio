@@ -21,23 +21,36 @@ Website #2: https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-m
 ### Material Information:
 
 - Material Type: PETG
+
 - Yield Strength: 30-50
+
 - Max Deflection: 0.30mm
 
 ## Feature 1:
 Known:
+
 - P: 300N
+  
 - Max Deflection: 0.30mm
+
 - Material: PETG
+  
 - Yield Strength: 30MPa-50MPa
+  
 - E: 2100 MPa
+  
 - Length: 44mm
+  
 - Height: 44mm
+  
 - Diameter: 18mm
 
 Unknown:
+
 - Cross-Sectional Area
+  
 - Stress
+  
 - Deflection
 
 ## Feature 2:
