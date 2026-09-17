@@ -24,6 +24,8 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 
 In this picture, it shows my calculation to solve for the cross-sectional geometry of feature 1 using the bending equation shown to us in class. We had to use this equation to find the approximate values cross sectional area with the parameters stated in the description and from the gear motor. 
 
+## Design for Feature 1 (Motor Mount):
+
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Motor_Mount_Feature_1_Sketch" src="https://github.com/user-attachments/assets/294272a3-4823-4ba4-bddf-fb085a5edf12" />
 <img width="49.5%" height="1017" alt="A4_Motor_Mount_Feature_1_Extrusion" src="https://github.com/user-attachments/assets/607dbfd7-ec01-4c29-9fa6-7dd579ee4185" />
@@ -44,6 +46,8 @@ This is the sketch of the holes that are made for the gear motor to actually mou
 
 In this picture, it shows my calculation to solve for the cross-sectional geometry of feature 2 using the bending equation for both stress and deflection shown to us in class. We had to use these equations to find the approximate values cross sectional area with the parameters stated in the description, from feature 1, and from the gear motor given to us. 
 
+## Design for Feature 2 (Wall Mount):
+
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Wall_Mount_Sketch" src="https://github.com/user-attachments/assets/a1083c50-5d95-400f-a84e-b34be1194a61" />
 <img width="49.5%" height="1017" alt="A4_Wall_Mount_Extrusion" src="https://github.com/user-attachments/assets/589b8277-e443-4398-9542-8335b3e16d00" />
@@ -58,7 +62,7 @@ This shows the sketch and the extrusion of feature 2, which is the wall mount of
 
 For Feature 2, I designed the motor mount to have holes on each corner of the wall mount to be able to hold the motor mount in place using screws or bolts. I designed the wall mounts to be 5mm inside in length and in width to equally hold the total force of the motor when mounted on. This allows for the most support coming from the screws or bolts since it will have to support the weight and the force of the gear motor. 
 
-### Added Features:
+## Added Features:
 
 <img width="1917" height="1017" alt="A4_Motor_Mount_Fillet" src="https://github.com/user-attachments/assets/52254d02-39cd-4358-b050-11fe9088fb64" />
 
@@ -69,17 +73,17 @@ To make this motor mount look more appealing I added a small feature of the fill
 <img width="1917" height="1020" alt="A4_Motor_Mount_Isometric_View" src="https://github.com/user-attachments/assets/87bbcce1-8644-4306-9a2a-98d8035f98bf" />
 This is the isometric view of my Motor Mount that I designed for this project in SolidWorks.
 
-#### CAD File: [3D Motor Mount](A4_Motor_Mount.SLDPRT)
+### CAD File: [3D Motor Mount](A4_Motor_Mount.SLDPRT)
 
 ## 2157 Students Only:
 
-### Topic: Drawings
+## Topic: Drawings
 
 <img width="927" height="717" alt="A4_Motor Mount_Drawing" src="https://github.com/user-attachments/assets/9a58a221-3daa-4036-ba1c-248ad5c2f7b6" />
 
 This is my isometric drawing of the Motor Mount that I designed in SolidWorks. The drawing is also done in SolidWorks. This was my first time making an isometric drawing in SolidWorks, so it has some missing features but overall, it shows the front, right, and top view of the motor mount that I designed. 
 
-#### Drawing File: [Motor Mount Drawing](A4_Motor_Mount.SLDDRW)
+### Drawing File: [Motor Mount Drawing](A4_Motor_Mount.SLDDRW)
 
 ## Lessons Learned:
 
