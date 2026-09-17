@@ -27,36 +27,12 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 - Max Deflection: 0.30mm
 
 ## Feature 1:
-Knowns:
-- P: 300N
-  
-- Max Deflection: 0.30mm
 
-- Material: PETG
-  
-- Yield Strength: 30MPa-50MPa
-  
-- E: 2100 MPa
-  
-- Length: 44mm
-  
-- Height: 44mm
-  
-- Diameter: 18mm
-
-Unknowns:
-- Cross-Sectional Area
-  
-- Stress
-  
-- Deflection
+<img width="2589" height="3500" alt="IMG_8010" src="https://github.com/user-attachments/assets/7aa8dca4-9b34-4108-995e-cc6c82f520b0" />
 
 ## Feature 2:
 
-Knowns:
-
-Unknowns:
-
+<img width="2571" height="3500" alt="IMG_8011" src="https://github.com/user-attachments/assets/151a2842-3602-448e-8660-56569d559a3d" />
 
 ## Isometric View of Motor Mount:
 Isometric View:
