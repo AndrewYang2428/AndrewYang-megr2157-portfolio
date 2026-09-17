@@ -8,7 +8,7 @@
   <img width="1050" height="392" alt="Motor_Drawing" src="https://github.com/user-attachments/assets/9f37d438-8d26-4d60-a89e-e82d017be8bd" />
 </p>
 
-### Types of Motor Mounts:
+### Motor Mount Reasearch:
 
 Website #1: [https://www.bombayengg.net/knowledge-center/motor-mounting-types-explained-b3-b5-b14-v1-etc/](https://www.bombayengg.net/knowledge-center/motor-mounting-types-explained-b3-b5-b14-v1-etc/)
 
@@ -17,14 +17,6 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 ## Motor Mount Design:
 
 <img width="3500" height="2068" alt="IMG_8009" src="https://github.com/user-attachments/assets/09cfc88f-ba8c-4196-95c6-b1731424f529" />
-
-### Material Information:
-
-- Material Type: PETG
-
-- Yield Strength: 30-50
-
-- Max Deflection: 0.30mm
 
 ## Feature 1:
 
@@ -35,14 +27,13 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 <img width="2571" height="3500" alt="IMG_8011" src="https://github.com/user-attachments/assets/151a2842-3602-448e-8660-56569d559a3d" />
 
 ## Isometric View of Motor Mount:
-Isometric View:
 
 <img width="1917" height="1020" alt="A4_Motor_Mount_Isometric_View" src="https://github.com/user-attachments/assets/87bbcce1-8644-4306-9a2a-98d8035f98bf" />
-This is the isometric view of my Motor Mount that I designed for this project. 
+This is the isometric view of my Motor Mount that I designed for this project in SolidWorks.
 
-Motor Mount CAD File: [Motor Mount](A4_Motor_Mount.SLDPRT)
+#### Motor Mount CAD File: [Motor Mount](A4_Motor_Mount.SLDPRT)
 
-Feature 1:
+### Feature 1:
 
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Motor_Mount_Feature_1_Sketch" src="https://github.com/user-attachments/assets/294272a3-4823-4ba4-bddf-fb085a5edf12" />
@@ -58,7 +49,7 @@ This is the sketch and extrusion of Feature 1 where the motor is mounted onto th
 
 This is the sketch of the holes that are made for the gear motor to actually mount onto the motor mount itself. This creates a nice clean finish that allows the motor to sit flush with the motor mount without anything getting in the way of the shaft. Following the parameters of the motor itself, I was able to get the correct dimensions to make this design work.  
 
-Feature 2:
+### Feature 2:
 
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Wall_Mount_Sketch" src="https://github.com/user-attachments/assets/a1083c50-5d95-400f-a84e-b34be1194a61" />
@@ -74,18 +65,22 @@ This shows the sketch and the extrusion of feature 2, which is the wall mount of
 
 For Feature 2, I designed the motor mount to have holes on each corner of the wall mount to be able to hold the motor mount in place using screws or bolts. I designed the wall mounts to be 5mm inside in length and in width to equally hold the total force of the motor when mounted on. This allows for the most support coming from the screws or bolts since it will have to support the weight and the force of the gear motor. 
 
-Added Features:
+### Added Features:
 
 <img width="1917" height="1017" alt="A4_Motor_Mount_Fillet" src="https://github.com/user-attachments/assets/52254d02-39cd-4358-b050-11fe9088fb64" />
 
 To make this motor mount look more appealing I added a small feature of the fillet to give the motor mount a better finish. This has no effect on the parameters, and it doesn't affect the stress or deflection on the motor mount.
 
 ## 2157 Students Only:
+
 ### Topic: Drawings
 
 <img width="927" height="717" alt="A4_Motor Mount_Drawing" src="https://github.com/user-attachments/assets/9a58a221-3daa-4036-ba1c-248ad5c2f7b6" />
 
-Motor Mount Drawing File: [Motor Mount Drawing File](A4_Motor_Mount.SLDDRW)
+This is my isometric drawing of the Motor Mount that I designed in SolidWorks. The drawing is also done in SolidWorks. This was my first time making an isometric drawing in SolidWorks, so it has some missing features but overall, it shows the front, right, and top view of the motor mount that I designed. 
+
+#### Motor Mount Drawing File: [Motor Mount Drawing File](A4_Motor_Mount.SLDDRW)
+
 ## Lessons Learned:
 
 For this project I have learned and gained more experience in SolidWorks, from using more of the special tools and features that that they have to offer to making a drawing in SolidWorks, adding the dimensions and changing the layout of the drawing. I learned how to take what I have learned from this class and other classes, like Intro to Solids, and apply it to real-world projects like this assignment for motor mounts. I've learned that there are many different types of motor mounts that are designed and made a certain way to get the best outcome out of it. There are many different ways to mount a motor in place without affecting the properties of how the motor works. The more I document, the more I learn to improve my own skills to make the workflow of documenting easier and more enjoyable. This includes breaking the project down part by part and truly understanding what it is asking before I write anything down. Finding a good workflow that works best is helping me document better at a good pace. 
