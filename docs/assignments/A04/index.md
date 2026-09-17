@@ -22,19 +22,6 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 
 <img width="2589" height="3500" alt="IMG_8010" src="https://github.com/user-attachments/assets/7aa8dca4-9b34-4108-995e-cc6c82f520b0" />
 
-## Feature 2:
-
-<img width="2571" height="3500" alt="IMG_8011" src="https://github.com/user-attachments/assets/151a2842-3602-448e-8660-56569d559a3d" />
-
-## Isometric View of Motor Mount:
-
-<img width="1917" height="1020" alt="A4_Motor_Mount_Isometric_View" src="https://github.com/user-attachments/assets/87bbcce1-8644-4306-9a2a-98d8035f98bf" />
-This is the isometric view of my Motor Mount that I designed for this project in SolidWorks.
-
-#### CAD File: [3D Motor Mount](A4_Motor_Mount.SLDPRT)
-
-### Feature 1:
-
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Motor_Mount_Feature_1_Sketch" src="https://github.com/user-attachments/assets/294272a3-4823-4ba4-bddf-fb085a5edf12" />
 <img width="49.5%" height="1017" alt="A4_Motor_Mount_Feature_1_Extrusion" src="https://github.com/user-attachments/assets/607dbfd7-ec01-4c29-9fa6-7dd579ee4185" />
@@ -49,7 +36,9 @@ This is the sketch and extrusion of Feature 1 where the motor is mounted onto th
 
 This is the sketch of the holes that are made for the gear motor to actually mount onto the motor mount itself. This creates a nice clean finish that allows the motor to sit flush with the motor mount without anything getting in the way of the shaft. Following the parameters of the motor itself, I was able to get the correct dimensions to make this design work.  
 
-### Feature 2:
+## Feature 2:
+
+<img width="2571" height="3500" alt="IMG_8011" src="https://github.com/user-attachments/assets/151a2842-3602-448e-8660-56569d559a3d" />
 
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Wall_Mount_Sketch" src="https://github.com/user-attachments/assets/a1083c50-5d95-400f-a84e-b34be1194a61" />
@@ -70,6 +59,13 @@ For Feature 2, I designed the motor mount to have holes on each corner of the wa
 <img width="1917" height="1017" alt="A4_Motor_Mount_Fillet" src="https://github.com/user-attachments/assets/52254d02-39cd-4358-b050-11fe9088fb64" />
 
 To make this motor mount look more appealing I added a small feature of the fillet to give the motor mount a better finish. This has no effect on the parameters, and it doesn't affect the stress or deflection on the motor mount.
+
+## Isometric View of Motor Mount:
+
+<img width="1917" height="1020" alt="A4_Motor_Mount_Isometric_View" src="https://github.com/user-attachments/assets/87bbcce1-8644-4306-9a2a-98d8035f98bf" />
+This is the isometric view of my Motor Mount that I designed for this project in SolidWorks.
+
+#### CAD File: [3D Motor Mount](A4_Motor_Mount.SLDPRT)
 
 ## 2157 Students Only:
 
