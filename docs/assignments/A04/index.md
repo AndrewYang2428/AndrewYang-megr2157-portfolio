@@ -27,8 +27,7 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 - Max Deflection: 0.30mm
 
 ## Feature 1:
-Known:
-
+Knowns:
 - P: 300N
   
 - Max Deflection: 0.30mm
@@ -45,8 +44,7 @@ Known:
   
 - Diameter: 18mm
 
-Unknown:
-
+Unknowns:
 - Cross-Sectional Area
   
 - Stress
@@ -54,6 +52,11 @@ Unknown:
 - Deflection
 
 ## Feature 2:
+
+Knowns:
+
+Unknowns:
+
 
 ## Isometric View of Motor Mount:
 Isometric View:
