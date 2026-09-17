@@ -22,6 +22,8 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 
 <img width="2589" height="3500" alt="IMG_8010" src="https://github.com/user-attachments/assets/7aa8dca4-9b34-4108-995e-cc6c82f520b0" />
 
+In this picture, it shows my calculation to solve for the cross-sectional geometry of feature 1 using the bending equation shown to us in class. We had to use this equation to find the approximate values cross sectional area with the parameters stated in the description and from the gear motor. 
+
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Motor_Mount_Feature_1_Sketch" src="https://github.com/user-attachments/assets/294272a3-4823-4ba4-bddf-fb085a5edf12" />
 <img width="49.5%" height="1017" alt="A4_Motor_Mount_Feature_1_Extrusion" src="https://github.com/user-attachments/assets/607dbfd7-ec01-4c29-9fa6-7dd579ee4185" />
@@ -39,6 +41,8 @@ This is the sketch of the holes that are made for the gear motor to actually mou
 ## Feature 2:
 
 <img width="2571" height="3500" alt="IMG_8011" src="https://github.com/user-attachments/assets/151a2842-3602-448e-8660-56569d559a3d" />
+
+In this picture, it shows my calculation to solve for the cross-sectional geometry of feature 2 using the bending equation for both stress and deflection shown to us in class. We had to use these equations to find the approximate values cross sectional area with the parameters stated in the description, from feature 1, and from the gear motor given to us. 
 
 <p align='center'>
 <img width="49.5%" height="1020" alt="A4_Wall_Mount_Sketch" src="https://github.com/user-attachments/assets/a1083c50-5d95-400f-a84e-b34be1194a61" />
