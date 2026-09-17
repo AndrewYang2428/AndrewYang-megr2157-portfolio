@@ -40,6 +40,8 @@ Isometric View:
 <img width="1917" height="1020" alt="A4_Motor_Mount_Isometric_View" src="https://github.com/user-attachments/assets/87bbcce1-8644-4306-9a2a-98d8035f98bf" />
 This is the isometric view of my Motor Mount that I designed for this project. 
 
+Motor Mount CAD File: [Motor Mount](https://github.com/AndrewYang2428/AndrewYang-megr2157-portfolio/blob/main/docs/assignments/A04/A4_Motor_Mount.SLDPRT)
+
 Feature 1:
 
 <p align='center'>
@@ -83,6 +85,7 @@ To make this motor mount look more appealing I added a small feature of the fill
 
 <img width="927" height="717" alt="A4_Motor Mount_Drawing" src="https://github.com/user-attachments/assets/9a58a221-3daa-4036-ba1c-248ad5c2f7b6" />
 
+Motor Mount Drawing File: [Motor Mount Drawing File](https://github.com/AndrewYang2428/AndrewYang-megr2157-portfolio/blob/main/docs/assignments/A04/A4_Motor_Mount.SLDDRW)
 ## Lessons Learned:
 
 For this project I have learned and gained more experience in SolidWorks, from using more of the special tools and features that that they have to offer to making a drawing in SolidWorks, adding the dimensions and changing the layout of the drawing. I learned how to take what I have learned from this class and other classes, like Intro to Solids, and apply it to real-world projects like this assignment for motor mounts. I've learned that there are many different types of motor mounts that are designed and made a certain way to get the best outcome out of it. There are many different ways to mount a motor in place without affecting the properties of how the motor works. The more I document, the more I learn to improve my own skills to make the workflow of documenting easier and more enjoyable. This includes breaking the project down part by part and truly understanding what it is asking before I write anything down. Finding a good workflow that works best is helping me document better at a good pace. 
