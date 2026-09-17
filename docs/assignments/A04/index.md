@@ -50,7 +50,7 @@ Feature 1:
 This is the sketch and extrusion of Feature 1 where the motor is mounted onto the motor mount itself. This represents a flat plate that is a length of 44mm and width of 40mm and extruded out 4mm. With these parameters, I wanted to ensure that there was a wide enough cross-sectional area to hold the gear motor in place and also be thick enough to have a stronger structure to the design. 
 
 <p align='center'>
-<img width="49.5%" height="1012" alt="A4_Motor_Mount_Holes" src="https://github.com/user-attachments/assets/c6bed561-7ca0-40d8-abe4-63b63563b932" />
+<img width="49.5%" height="1020" alt="A4_Motor_Mount_Holes" src="https://github.com/user-attachments/assets/5c21395b-92d7-46b2-8d18-de68f0f20ade" />
 <img width="49.5%" height="1020" alt="A4_Motor_Mount_Holes_Extrusions" src="https://github.com/user-attachments/assets/258072a2-dbf3-438c-b1dc-d414486378b5" />
 </p>
 
@@ -66,8 +66,8 @@ Feature 2:
 This shows the sketch and the extrusion of feature 2, which is the wall mount of the motor mount. The dimensions for feature 2 are the same as feature 1, it has a length of 44mm * width of 40mm.
 
 <p align='center'>
-<img width="45.9%" height="1020" alt="A4_Wall_Mount_Holes" src="https://github.com/user-attachments/assets/2f684062-b333-4fcc-91a4-425ac124e1af" />
-<img width="45.9%" height="1017" alt="A4_Wall_Mount_Hole_Extrusion" src="https://github.com/user-attachments/assets/733be3e2-e583-48f7-9a08-2e667054b992" />
+<img width="49.5%" height="1020" alt="A4_Motor_Mount_Holes" src="https://github.com/user-attachments/assets/d42346fa-c9dc-403b-9c1f-7bc262d9fec7" />
+<img width="49.5%" height="1020" alt="A4_Motor_Mount_Hole_Extrusion" src="https://github.com/user-attachments/assets/70b9d9bc-f676-4604-8d1f-02cff7f03bc0" />
 </p>
 
 For Feature 2, I designed the motor mount to have holes on each corner of the wall mount to be able to hold the motor mount in place using screws or bolts. I designed the wall mounts to be 5mm inside in length and in width to equally hold the total force of the motor when mounted on. This allows for the most support coming from the screws or bolts since it will have to support the weight and the force of the gear motor. 
@@ -81,7 +81,7 @@ To make this motor mount look more appealing I added a small feature of the fill
 ## 2157 Students Only:
 ### Topic: Drawings
 
-<img width="930" height="717" alt="A2_Motor_Mount_Drawing" src="https://github.com/user-attachments/assets/de841a25-8ae0-4592-bba1-e289916660ae" />
+<img width="927" height="717" alt="A4_Motor Mount_Drawing" src="https://github.com/user-attachments/assets/9a58a221-3daa-4036-ba1c-248ad5c2f7b6" />
 
 ## Lessons Learned:
 
