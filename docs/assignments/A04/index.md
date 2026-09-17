@@ -31,7 +31,7 @@ Website #2: [https://industrialgearboxsupply.com/blog/motor-mounting-types-foot-
 <img width="1917" height="1020" alt="A4_Motor_Mount_Isometric_View" src="https://github.com/user-attachments/assets/87bbcce1-8644-4306-9a2a-98d8035f98bf" />
 This is the isometric view of my Motor Mount that I designed for this project in SolidWorks.
 
-#### Motor Mount CAD File: [Motor Mount](A4_Motor_Mount.SLDPRT)
+#### CAD File: [3D Motor Mount](A4_Motor_Mount.SLDPRT)
 
 ### Feature 1:
 
@@ -79,7 +79,7 @@ To make this motor mount look more appealing I added a small feature of the fill
 
 This is my isometric drawing of the Motor Mount that I designed in SolidWorks. The drawing is also done in SolidWorks. This was my first time making an isometric drawing in SolidWorks, so it has some missing features but overall, it shows the front, right, and top view of the motor mount that I designed. 
 
-#### Motor Mount Drawing File: [Motor Mount Drawing File](A4_Motor_Mount.SLDDRW)
+#### Drawing File: [Motor Mount Drawing](A4_Motor_Mount.SLDDRW)
 
 ## Lessons Learned:
 
