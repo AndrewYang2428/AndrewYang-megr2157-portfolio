@@ -57,6 +57,11 @@ Design a link (Appendix E) that connects feature A to another cylindrical featur
 
 ### Resources:
 
+Machinery's Handbook: ANSI/ASME Standard Limits and Fits pg. 646 - 660
+
+<img width="3024" height="4032" alt="IMG_8067" src="https://github.com/user-attachments/assets/2529de10-0753-4e61-ad4e-6551f8db6e7a" />
+<img width="3024" height="4032" alt="IMG_8069" src="https://github.com/user-attachments/assets/e8262409-0a16-4796-8a94-fdb8761f5300" />
+<img width="3024" height="4032" alt="IMG_8068" src="https://github.com/user-attachments/assets/b01a7ede-6991-4f99-ba48-6e201bdcb80d" />
 
 
 
