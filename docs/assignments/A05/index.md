@@ -10,13 +10,17 @@
 - Create detailed multiview sketches illustrating dimensions derived from both stress and stiffness analyses.
 - Reflect on and document key engineering lessons learned throughout the process.
 
-## Analyze
+## Overview:
 
+For this project, there was a bracket designed to hold a horizontal force applied symmetrically by a strap. The bracket's dimensions are designed with different fit classes. Each Dimension of the T beam is part of the fit:
 
-## Decide
+- “a” intention for use where accuracy is not essential
+- “b” is about the closest fits that can be expected to run freely
+- “c” is where accurate location and minimum play is desired
 
-
-## Communicate
+<p align='center'>
+<img width="572" height="337" alt="TBeam" src="https://github.com/user-attachments/assets/960ef5ab-e63c-4bd2-80ea-1f3224ea2802" />
+</p>
 
 ### Calculating Dimensions from Stress Analysis:
 
@@ -24,13 +28,11 @@
 
 ### Generate Multiview Sketches:
 
-### Lessons Learned:
+## Lessons Learned:
 
-- Governing Failure Mode:
-- Error Propogation:
-- Assumption Sensitivity:
+For this project, I've learned to apply properties from one feature to come up with assumptions and calculations to make another feature. This involved much Solid Mechanics equations to solve for the stress analysis and the stiffness analysis. With this assignment, I am learning to apply everything that I've learned from this class and previous classes to solve for these parameters. 
 
-### Topic: Fits
+## Topic: Fits
 
 Design a link (Appendix E) that connects feature A to another cylindrical feature, such that the connection can hold using the same amount of force. The link is to be made from one of the three specified metals.
 
@@ -44,15 +46,14 @@ Design a link (Appendix E) that connects feature A to another cylindrical featur
 - Use stress/strength equations to determine the required cross-sectional area of the linkage, focusing on the smallest cross-sectional area at the holes.
 - Apply the axial deflection equation to verify both the cross-sectional area and the length of the linkage, again considering the smallest cross-sectional area at the holes.
 
-#### Select the proper fit for feature A:
+
+
+#### Select the proper fit for feature A and the 1-inch shaft:
 
 - Discuss the design process used, and cite resources (include page numbers) in your documentation.
 - Select the proper manufacturing technique. Show the process included tables used.
 
-#### Select the proper fit for the 1-inch shaft:
-
-- Discuss the process used, and cite resources (include page numbers) in your documentation.
-- Select the proper manufacturing technique. Show the process included tables used.
+  For the linkage design, it has to have a running or sliding fit onto Feature A. For proper manufacturing of this part, the best technique will be to drill the holes to get precise measurements that will allow for the fit that we want or need. 
 
 ### Resources:
 
