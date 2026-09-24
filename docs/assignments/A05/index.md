@@ -62,6 +62,11 @@ Machinery's Handbook: ANSI/ASME Standard Limits and Fits pg. 646 - 660
 <img width="3024" height="4032" alt="IMG_8067" src="https://github.com/user-attachments/assets/2529de10-0753-4e61-ad4e-6551f8db6e7a" />
 <img width="3024" height="4032" alt="IMG_8069" src="https://github.com/user-attachments/assets/e8262409-0a16-4796-8a94-fdb8761f5300" />
 <img width="3024" height="4032" alt="IMG_8068" src="https://github.com/user-attachments/assets/b01a7ede-6991-4f99-ba48-6e201bdcb80d" />
+<img width="3024" height="4032" alt="IMG_8070 2" src="https://github.com/user-attachments/assets/ce90ba64-6e2d-49f1-ae9f-61e3e4013c3d" />
+
+## Total Time:
+
+For this project, it took me about 8 hours to complete.
 
 
 
