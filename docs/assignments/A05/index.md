@@ -28,7 +28,7 @@ For this project, I chose Aluminum 6061-T6 as the material of choice for the bra
 <img width="422" height="357" alt="Bracket" src="https://github.com/user-attachments/assets/e62365e7-d6d2-4799-ade2-372ba6524c43" />
 </p>
 
-This is the bracket that was analyzed for this project. It is sectioned off into different features that were analyzed for its stress and stiffness.
+This is the bracket that was analyzed for this project. It is sectioned off into different features that were analyzed for their stress and stiffness.
 
 ### Calculating Dimensions from Stress Analysis and Stiffness Analysis:
 
@@ -58,7 +58,7 @@ This is the bracket that was analyzed for this project. It is sectioned off into
 
 ## Lessons Learned:
 
-For this project, I've learned to apply properties from one feature to come up with assumptions and calculations to make another feature. This involved much Solid Mechanics equations to solve for the stress analysis and the stiffness analysis. With this assignment, I am learning to apply everything that I've learned from this class and previous classes to solve for these parameters. 
+For this project, I've learned to apply properties from one feature to come up with assumptions and calculations for another feature. This involved many Solid Mechanics equations to solve for the stress analysis and the stiffness analysis. With this assignment, I am learning to apply everything that I've learned from this class and previous classes to solve for these parameters. 
 
 ## Topic: Fits
 
@@ -78,13 +78,14 @@ Design a link (Appendix E) that connects feature A to another cylindrical featur
 - Use stress/strength equations to determine the required cross-sectional area of the linkage, focusing on the smallest cross-sectional area at the holes.
 - Apply the axial deflection equation to verify both the cross-sectional area and the length of the linkage, again considering the smallest cross-sectional area at the holes.
 
+<img width="2678" height="3500" alt="IMG_8076" src="https://github.com/user-attachments/assets/35855506-ffdf-4aab-9334-e390f62ce448" />
 
 #### Select the proper fit for feature A and the 1-inch shaft:
 
 - Discuss the design process used, and cite resources (include page numbers) in your documentation.
-- Select the proper manufacturing technique. Show the process included tables used.
+- Select the proper manufacturing technique. Show the process and include tables used.
 
-  For the linkage design, it has to have a running or sliding fit onto Feature A. For proper manufacturing of this part, the best technique will be to drill the holes to get precise measurements that will allow for the fit that we want or need. 
+  For the linkage design, it has to have a running or sliding fit onto Feature A. For proper manufacturing of this part, the best technique is to drill the holes to achieve precise measurements that allow the fit we need. Using the Machinery's Handbook, I was able to get some information about running and sliding fits, allowing me to come up with a solution to find the best fit for the Linkage component. The charts in the Handbook allowed me to see what would make the best fit, as well as the tolerances for the holes as well. Although this might not be as accurate as I would like, this does give a general idea of what to expect if we want a running or sliding fit on this specific size shaft. 
 
 ### Resources:
 
