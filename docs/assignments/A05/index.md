@@ -22,7 +22,13 @@ For this project, there was a bracket designed to hold a horizontal force applie
 <img width="572" height="337" alt="TBeam" src="https://github.com/user-attachments/assets/960ef5ab-e63c-4bd2-80ea-1f3224ea2802" />
 </p>
 
-For this project, I chose Aluminum 6061-T6 as the material of choice for the bracket used to connect to the T-Beam. For this project, I had to break this bracket into Features A-E to conduct a Stress and Stiffness Analysis report to find the missing parameters and also test if this Bracket could support the amount of force applied, depending on the applied force that was chosen. For this matter, I had to use the stress and deflection equations to help solve for the missing dimensions as well as solve for the stress and stiffness of the bracket.  
+For this project, I chose Aluminum 6061-T6 as the material of choice for the bracket used to connect to the T-Beam. For this project, I had to break this bracket into Features A-E to conduct a Stress and Stiffness Analysis report to find the missing parameters and also test if this Bracket could support the amount of force applied, depending on the applied force that was chosen. For this matter, I had to use the stress and deflection equations to help solve for the missing dimensions as well as solve for the stress and stiffness of the bracket. 
+
+<p align='center'>
+<img width="422" height="357" alt="Bracket" src="https://github.com/user-attachments/assets/e62365e7-d6d2-4799-ade2-372ba6524c43" />
+</p>
+
+This is the bracket that was analyzed for this project. It is sectioned off into different features that were analyzed for its stress and stiffness.
 
 ### Calculating Dimensions from Stress Analysis and Stiffness Analysis:
 
@@ -61,6 +67,10 @@ Design a link (Appendix E) that connects feature A to another cylindrical featur
 - The hole in the link that connects to feature A must be designed as a running/sliding fit.
 - The hole in the link that connects to the 1-inch diameter shaft must be designed with light assembly pressure.
 
+<p align='center'>
+<img width="622" height="517" alt="Linkage" src="https://github.com/user-attachments/assets/082018ce-3bb1-4db6-b044-44b192e230d2" />
+</p>
+
 ### Task:
 
 #### Design the dimensions of the link: 
@@ -68,7 +78,6 @@ Design a link (Appendix E) that connects feature A to another cylindrical featur
 - Use stress/strength equations to determine the required cross-sectional area of the linkage, focusing on the smallest cross-sectional area at the holes.
 - Apply the axial deflection equation to verify both the cross-sectional area and the length of the linkage, again considering the smallest cross-sectional area at the holes.
 
-<img width="2678" height="3500" alt="IMG_8077" src="https://github.com/user-attachments/assets/f6abab2c-00dc-4319-9c72-20c71eb54157" />
 
 #### Select the proper fit for feature A and the 1-inch shaft:
 
