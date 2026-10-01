@@ -8,6 +8,8 @@ For this assignment, we were tasked to make a model of the Bracket Design that w
 
 <img width="1917" height="1020" alt="A6_Bracket" src="https://github.com/user-attachments/assets/b2539901-d229-4135-8dcf-f9adfc3cbf92" />
 
+[Bracket Design CAD Model](A6_Bracket_Design.SLDPRT)
+
 ### Feature A:
 
 <img width="1917" height="1020" alt="A6_Feature_A" src="https://github.com/user-attachments/assets/669ff62a-b38b-448d-8ca0-e61212acfaaa" />
@@ -38,6 +40,8 @@ Using the Rigid T Beam Drawing, I was able to make the cut out in the Bracket. W
 
 <img width="1917" height="1020" alt="A6_Engineering_Drawing" src="https://github.com/user-attachments/assets/ee1b1776-162a-4ffa-bf90-f2b0738d8bc3" />
 
+[Bracket Design Engineering Drawing](A6_Bracket_Design.SLDDRW)
+
 ## Reflection:
 
 For this project, I used the parameters that I calculated from A5 - Bracket Design to make the Bracket model shown throughout this assignment. While making this CAD Model, there were some confusions on whether or not my calculations were correct but after using the parameters that were calculated, there were no issues that came up, except for the thickness for Feature B. It seems pretty thin to be the thickness for this model but overall, everything else seem to come to place. One thing that I learned from this assignment that when you are designing for a specific output, there will be changes that will need to be made to get the results you expect. One thing to account for are how the stress and stiffness analysis come into play with the design. I learned that when making a design, there are calculations that you need to be made to ensure that your model will come out the way it is expected and fulfill the functions that you want. Overall, I learned that designing is more than CAD Modeling. You have to take in accountability of any outside factors that make up a part.  
@@ -48,11 +52,15 @@ For this project, I used the parameters that I calculated from A5 - Bracket Desi
 
 <img width="1917" height="1017" alt="A6_Bracket_Link" src="https://github.com/user-attachments/assets/df7abb62-27d3-448e-9b92-467fcb790383" />
 
+[Bracket Link CAD Model](A6_Link.SLDPRT)
+
 For this Bracket Link I designed for the Bracket itself was based on the parameters that I calculated for the Bracket in A5 - Bracket Design. The goal for the Link was to make it compatible with Feature A of the Bracket. It was required to have running/slicing fit on Feature A. This mean that the tolerance had to be within the range of the classes RC1 - RC9. Looking at the Machinery Handbook, there are different tolerances that you can choose from based on how you want it to fit onto the part and its function. 
 
 ### Link Engineering Drawing:
 
 <img width="1917" height="1017" alt="A6_Link_Drawing" src="https://github.com/user-attachments/assets/c8671971-e028-4bd3-af7b-fe67165108c2" />
+
+[Bracket Link Engineering Drawing](A6_Link.SLDDRW)
 
 ### Reflection:
 
