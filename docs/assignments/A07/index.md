@@ -110,3 +110,6 @@ Max Strain and Location:
 
 For the linkage design, there are not many options to make any changes to the design of the link so the only thing I changed for the link was the thickness of it. With this, you are able to see what is affected and how it will be affected by the applied forces on the linkage. The linkage is to slide on the bracket, even though it is not attached to the bracket, you can see what will happen to it if it is and what changes need to be made to make this link and bracket work correctly. 
 
+## Total Time to Complete:
+
+For this project, it took me 6 hours to complete. 
