@@ -12,13 +12,13 @@
 - Reflect on key engineering lessons learned and time spent.
 
 
-Project Description:
+## Project Description:
 
 Your task is simply to create a high stiff, high strength, and lightweight component. Use Finite Element analysis to drive your decision making process throughout your design. Each step of the analysis and before you make geometric changes make sure the component’s results (stress/displacement/Safety Factor) converge on a 7% difference. Achieve this by modifying the number of elements. If after three attempts to converge use the stiffness and stress from the finer mesh size use the finest mesh size and proceed through the process.
 
 Original File to Bracket:[Bracket CAD File](A6_Bracket_Design.SLDPRT)
 
-## Design 1:
+### Design 1:
 
 <img width="1917" height="1020" alt="Design1" src="https://github.com/user-attachments/assets/cff3b763-6eb9-4d35-93d0-4c4983b0b8df" />
 
@@ -34,7 +34,7 @@ Max Strain and Location:
 
 <img width="1917" height="1017" alt="Design1_Strain" src="https://github.com/user-attachments/assets/8e7e012b-5de0-4f23-b31f-bc41e8fba575" />
 
-## Design 2:
+### Design 2:
 
 <img width="1917" height="1020" alt="Design2" src="https://github.com/user-attachments/assets/467c1b81-c47d-4c60-872c-f12fc0a3bc66" />
 
@@ -50,7 +50,7 @@ Max Strain and Location:
 
 <img width="1917" height="1020" alt="Design2_Strain" src="https://github.com/user-attachments/assets/1b24f4fc-3f04-44d7-9b2c-830eb90092a4" />
 
-## Design 3:
+### Design 3:
 
 <img width="1917" height="1020" alt="Design3" src="https://github.com/user-attachments/assets/27d463e1-7bb0-4b6e-a5f1-04fbe21cbacc" />
 
@@ -76,7 +76,7 @@ I did learn a lot from this project that will help me learn and improve on my de
 
 Original File to Linkage: [Linkage CAD File](A6_Link.SLDPRT)
 
-Link Design 1:
+### Link Design 1:
 
 <img width="1917" height="1020" alt="Link1" src="https://github.com/user-attachments/assets/2e8387f6-e01a-4cf2-8706-69211e3df13e" />
 
@@ -92,7 +92,7 @@ Max Strain and Location:
 
 <img width="1917" height="1020" alt="Link1_Strain" src="https://github.com/user-attachments/assets/8b4e4641-9d03-487a-a390-d0de9ee1138e" />
 
-Link Design 2:
+### Link Design 2:
 
 <img width="1917" height="1020" alt="Link2" src="https://github.com/user-attachments/assets/a41a3d64-4b82-4f97-95e2-68c4dea43e20" />
 
