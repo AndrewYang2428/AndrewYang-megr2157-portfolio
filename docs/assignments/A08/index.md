@@ -31,11 +31,13 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 
 ### Input Shaft:
 
+<img width="2589" height="3500" alt="IMG_8269" src="https://github.com/user-attachments/assets/b5cc5441-b922-43da-ad79-237ac60ea7c9" />
 <img width="1917" height="1020" alt="InputShaft" src="https://github.com/user-attachments/assets/21c4731d-929d-44d8-89ae-d032621a390f" />
 <img width="1917" height="1020" alt="InputShaftDrawing" src="https://github.com/user-attachments/assets/38e401df-12ee-47ab-a13c-0aa82af9c975" />
 
 ### Output Shaft:
 
+<img width="2563" height="3500" alt="IMG_8270" src="https://github.com/user-attachments/assets/8e2a5b32-0d8c-476c-a348-01af32546c10" />
 <img width="1917" height="1020" alt="OutputShaft" src="https://github.com/user-attachments/assets/c3376eb3-9bfb-4382-bc8d-02941bef6416" />
 <img width="1917" height="1020" alt="OutputShaftDrawing" src="https://github.com/user-attachments/assets/102370df-26d3-48bc-b7ad-e6303e340bde" />
 
@@ -43,6 +45,8 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 
 #### Input Journal Bearing:
 
+<img width="2571" height="3500" alt="IMG_8271" src="https://github.com/user-attachments/assets/61d265ff-4b42-4126-8419-2346588f1cf8" />
+<img width="2580" height="3500" alt="IMG_8268" src="https://github.com/user-attachments/assets/36562015-e7d3-4ff0-9cdd-168cf4dfca2c" />
 <img width="1917" height="1020" alt="JournalBearingInputShaft" src="https://github.com/user-attachments/assets/9fa2e61f-ff88-4f84-926d-53edba84afd1" />
 <img width="1917" height="1017" alt="Journal Bearing Input Shaft Drawing" src="https://github.com/user-attachments/assets/15fe5fd6-eae1-4d1e-a74a-f7ee8395d02b" />
 
