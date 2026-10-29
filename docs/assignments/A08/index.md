@@ -58,12 +58,12 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 <img width="1917" height="1017" alt="GearBox" src="https://github.com/user-attachments/assets/acbafb53-c273-43ee-b9a9-3b7a14306c1f" />
 <img width="1917" height="1020" alt="GearBoxDrawing" src="https://github.com/user-attachments/assets/9c7b5d86-37fa-4787-bebb-c30d0bf757e8" />
 
-### [Gear Box Cover](GearBoxCover.SLDPRT)
+### [Gear Box Cover](GearBoxCover.SLDPRT): 
 
 <img width="1917" height="1012" alt="GearBoxLid" src="https://github.com/user-attachments/assets/0f02a4f2-ca3c-4330-906b-65d370b35cf4" />
 <img width="1917" height="1020" alt="GearBoxCOverDrawing" src="https://github.com/user-attachments/assets/95b68fcf-7c7b-4ca6-8bb1-1f7572dfb7d2" />
 
-### [Gear Box Assembly](Gear Box Assembly.SLDASM)
+### [Gear Box Assembly](Gear Box Assembly.SLDASM):
 
 ### Resources:
 
