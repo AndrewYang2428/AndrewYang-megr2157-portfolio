@@ -67,8 +67,10 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 
 ### Resources:
 
-- [https://www.mcmaster.com/7880K19/](https://www.mcmaster.com/7880K19/): [CAD File](7880K19_Metal Gear - 20 Degree Pressure Angle.SLDPRT)
-- [https://www.mcmaster.com/7880K24/](https://www.mcmaster.com/7880K24/): [CAD File](7880K24_Metal Gear - 20 Degree Pressure Angle.SLDPRT)
+- [https://www.mcmaster.com/7880K19/](https://www.mcmaster.com/7880K19/)
+- [CAD File](7880K19_Metal Gear - 20 Degree Pressure Angle.SLDPRT)
+- [https://www.mcmaster.com/7880K24/](https://www.mcmaster.com/7880K24/)
+- [CAD File](7880K24_Metal Gear - 20 Degree Pressure Angle.SLDPRT)
 - [https://www.mcmaster.com/products/journal-bearings/sleeve-bearings-3~/sleeve-bearings-3~lubricant~oil-1/](https://www.mcmaster.com/products/journal-bearings/sleeve-bearings-3~/sleeve-bearings-3~lubricant~oil-1/)
 
 ## MEGR 2157: Drawing:
