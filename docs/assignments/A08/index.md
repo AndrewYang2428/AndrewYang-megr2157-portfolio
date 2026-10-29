@@ -25,17 +25,15 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 - Make sure there is enough clearance between the gears and the gearbox.
 - Use a running sliding fit for the size of the hole for the shafts.
 
-
-
 ## Design of Shafts:
 
-### Input Shaft:
+### [Input Shaft](Input Shaft.SLDPRT):
 
 <img width="2589" height="3500" alt="IMG_8269" src="https://github.com/user-attachments/assets/b5cc5441-b922-43da-ad79-237ac60ea7c9" />
 <img width="1917" height="1020" alt="InputShaft" src="https://github.com/user-attachments/assets/21c4731d-929d-44d8-89ae-d032621a390f" />
 <img width="1917" height="1020" alt="InputShaftDrawing" src="https://github.com/user-attachments/assets/38e401df-12ee-47ab-a13c-0aa82af9c975" />
 
-### Output Shaft:
+### [Output Shaft](Output Shaft.SLDPRT):
 
 <img width="2563" height="3500" alt="IMG_8270" src="https://github.com/user-attachments/assets/8e2a5b32-0d8c-476c-a348-01af32546c10" />
 <img width="1917" height="1020" alt="OutputShaft" src="https://github.com/user-attachments/assets/c3376eb3-9bfb-4382-bc8d-02941bef6416" />
@@ -43,48 +41,53 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 
 ### Journal Bearing:
 
-#### Input Journal Bearing:
+#### [Input Journal Bearing](Journal Bearing Input Shaft.SLDPRT):
 
 <img width="2571" height="3500" alt="IMG_8271" src="https://github.com/user-attachments/assets/61d265ff-4b42-4126-8419-2346588f1cf8" />
 <img width="2580" height="3500" alt="IMG_8268" src="https://github.com/user-attachments/assets/36562015-e7d3-4ff0-9cdd-168cf4dfca2c" />
 <img width="1917" height="1020" alt="JournalBearingInputShaft" src="https://github.com/user-attachments/assets/9fa2e61f-ff88-4f84-926d-53edba84afd1" />
 <img width="1917" height="1017" alt="Journal Bearing Input Shaft Drawing" src="https://github.com/user-attachments/assets/15fe5fd6-eae1-4d1e-a74a-f7ee8395d02b" />
 
-#### Output Journal Bearing:
+#### [Output Journal Bearing](Journal Bearing Output Shaft.SLDPRT):
 
 <img width="1917" height="1020" alt="JournalBearingOutput" src="https://github.com/user-attachments/assets/15e7c34d-55a6-42f3-a7bd-cca91b4293aa" />
 <img width="1917" height="1017" alt="JournalOutputShaftDrawing" src="https://github.com/user-attachments/assets/1d0e4577-254c-400b-b3bd-0297405bf346" />
 
-### GearBox:
+### [Gear Box](GearBox.SLDPRT):
 
 <img width="1917" height="1017" alt="GearBox" src="https://github.com/user-attachments/assets/acbafb53-c273-43ee-b9a9-3b7a14306c1f" />
-<img width="1917" height="1012" alt="GearBoxLid" src="https://github.com/user-attachments/assets/0f02a4f2-ca3c-4330-906b-65d370b35cf4" />
 <img width="1917" height="1020" alt="GearBoxDrawing" src="https://github.com/user-attachments/assets/9c7b5d86-37fa-4787-bebb-c30d0bf757e8" />
+
+### [Gear Box Cover](GearBoxCover.SLDPRT)
+
+<img width="1917" height="1012" alt="GearBoxLid" src="https://github.com/user-attachments/assets/0f02a4f2-ca3c-4330-906b-65d370b35cf4" />
 <img width="1917" height="1020" alt="GearBoxCOverDrawing" src="https://github.com/user-attachments/assets/95b68fcf-7c7b-4ca6-8bb1-1f7572dfb7d2" />
 
 ## MEGR 2157: Drawing:
 
-### Input Shaft:
+### [Input Shaft Drawing](Input Shaft Drawing.SLDDRW):
 
 <img width="1917" height="1020" alt="InputShaftDrawing" src="https://github.com/user-attachments/assets/38e401df-12ee-47ab-a13c-0aa82af9c975" />
 
-### Output Shaft:
+### [Output Shaft Drawing](Output Shaft Drawing.SLDDRW):
 
 <img width="1917" height="1020" alt="OutputShaftDrawing" src="https://github.com/user-attachments/assets/102370df-26d3-48bc-b7ad-e6303e340bde" />
 
-### Journal Bearing:
+### Journal Bearing Drawings:
 
-#### Input Journal Bearing:
+#### [Input Journal Bearing Drawing](Journal Bearing Input Shaft.SLDDRW):
 
 <img width="1917" height="1017" alt="Journal Bearing Input Shaft Drawing" src="https://github.com/user-attachments/assets/15fe5fd6-eae1-4d1e-a74a-f7ee8395d02b" />
 
-#### Output Journal Bearing:
+#### [Output Journal Bearing Drawing](Journal Bearing Output Shaft.SLDDRW):
 
 <img width="1917" height="1017" alt="JournalOutputShaftDrawing" src="https://github.com/user-attachments/assets/1d0e4577-254c-400b-b3bd-0297405bf346" />
 
-### GearBox:
+### [GearBox Drawing](GearBox.SLDDRW):
 
 <img width="1917" height="1020" alt="GearBoxDrawing" src="https://github.com/user-attachments/assets/9c7b5d86-37fa-4787-bebb-c30d0bf757e8" />
+
+### [Gear Box Cover Drawing](GearBoxCover.SLDDRW):
 <img width="1917" height="1020" alt="GearBoxCOverDrawing" src="https://github.com/user-attachments/assets/95b68fcf-7c7b-4ca6-8bb1-1f7572dfb7d2" />
 
 ## Lessons Learned:
