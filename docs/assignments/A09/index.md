@@ -34,15 +34,23 @@ Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 
 ## Engineering Analysis:
 
 There are many different types of frames to support a pulley system. These supports can consist of brackets that hold the belt or pulley together keeping the belt from slipping off the pulley. Some other frame ideas can consist of a deep grooves that keep the belt from slipping off of the pulley. It also depends on the purpose of the pulley system because it may need some play to be able to move and adjust as the belt rotates around the pulley system. Here are some examples that can reference how the frame can look like: 
-Example #1: Typical Pulley
+
+### Example #1: Typical Pulley
+<p align='center'>
 <img width="500" height="500" alt="Example1" src="https://github.com/user-attachments/assets/9460790e-3051-49b6-b905-dc1956575088" />
+</p>
 
-Example #2: Deep Groove Pulley
+### Example #2: Deep Groove Pulley
+
+<p align='center'>
 <img width="247" height="247" alt="Example2" src="https://github.com/user-attachments/assets/a6a8df77-d8e5-487f-908b-766471ff9e65" />
+</p>
 
-Example #3: Bracket Attached Pulley
+### Example #3: Bracket Attached Pulley
 
+<p align='center'>
 <img width="1200" height="1200" alt="Example3" src="https://github.com/user-attachments/assets/29ae5d08-b559-4cd0-95dc-bca24b85d210" />
+</p>
 
 ## Lessons Learned:
 
