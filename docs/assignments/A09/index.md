@@ -12,10 +12,15 @@ Design a pulley system to transfer power between two parallel axes separated by 
 
 Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 MPa (471 psi) at 20% strain
 
+<p align='center'>
+<img width="295" height="100" alt="Pulley" src="https://github.com/user-attachments/assets/aa81e89c-84e3-4755-8a08-d0ea3d1d1b52" />
+</p>
+
 ## Belt/Pulley System:
 
 <img width="2545" height="3500" alt="IMG_8297" src="https://github.com/user-attachments/assets/0e9f2e2d-ee2b-44ba-95ef-95f8851c8cbf" />
 <img width="2571" height="3500" alt="IMG_8295" src="https://github.com/user-attachments/assets/c1e2116e-f068-4479-a355-9ef99f0f7b70" />
+<img width="1897" height="867" alt="BeltPulley" src="https://github.com/user-attachments/assets/58394e8c-c9b0-4530-a169-98cbccc9754a" />
 
 ## Shaft:
 
