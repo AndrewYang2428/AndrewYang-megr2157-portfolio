@@ -40,7 +40,10 @@ For this project, I was assigned to design the Crosshead of the Tensile Tester. 
 
 ## 2157 Students Only:
 
-### Crosshead Drawing: 
+### [Crosshead Drawing:](crosshead.SLDDRW)
+
+<img width="1917" height="1020" alt="Crosshead_Drawing" src="https://github.com/user-attachments/assets/f26aefee-fa77-4dc1-b47b-459bf43fcdb4" />
+
 
 
 
