@@ -22,7 +22,7 @@ Design and build a mechanically driven tensile tester capable of applying up to 
 
 ## Lead Screw Minimum Diameter:
 
-Alinah’s part: 
+#### Alinah’s part: 
 
 For this assignment, I worked on selecting a lead screw that could safely support a 2000 N load using two screws. I started by calculating the minimum diameter needed with a safety factor of 4, then calculated the rotational speed range and torque required to lift the load. Below are the two images of my work in how I accomplished it. In some of the math I used in assumed geometry based off the screw I knew I wanted to later choose, this is within the documented work. 
 
@@ -38,7 +38,7 @@ After I had to analyze whether the selection of screw I made would actually work
 
 ## Nut and Flange
 
-Andy's Part:
+#### Andy's Part:
 
 After finishing the design for the lead screw, we had to make sure the nut and flange could take the stresses that we designed for. The assignment says to use the formulas that are in the lecture slides, so I went back to the lecture slides to see which equations it was talking about. When I looked at the slides, it seemed like it wanted me to calculate the bearing stress, shear stress, and bending stress. All of the variables used in these equations were already calculated from the lead screw, but I was a little confused with the d_min variable. We calculated a d_min, but that was relating to the minimum diameter of the screw before it failed. The d_min used in these equations represents the minor diameter, which is the diameter of the thinnest part of the thread. I wasn't sure what to use for this value, but when I asked ChatGPT, it told me that a common value for the type of lead screw we were using was 0.2983in. That was the only value I really had to do my calculations with, so that is where I got that value and why we used it.
 
@@ -86,7 +86,7 @@ The nut and flange passed all of the tests with a pretty good margin, so we are 
 
 ## Design the Crosshead:
 
-Andrew's Part:
+#### Andrew's Part:
 
 ### Beam Stress/Strength Analysis:
 
@@ -114,7 +114,7 @@ Andrew's Part:
 
 ## Parametric Modeling
 
-Andy's Part:
+#### Andy's Part:
 
 I decided to model the crosshead first and then download all of the part files after. There isn't a reason for doing it in this order.
 
@@ -364,7 +364,9 @@ However when we tried to run more tests on solidworks, it informed us that 62 el
 
 <img width="1917" height="1020" alt="Crosshead Drawing" src="https://github.com/user-attachments/assets/e29fe408-920f-4c31-9f90-9cb0d1e0cb50" />
 
+## Time:
 
+For this assignment, it took me about 12 hours to complete my part of the assignment. The total time for this project took over 24 hours to complete. 
 
 
 
