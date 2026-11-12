@@ -102,6 +102,9 @@ The nut and flange passed all of the tests with a pretty good margin, so we are 
 
 <p align='center'>
 <img width="422" height="522" alt="Tabulating Costs" src="https://github.com/user-attachments/assets/12074e82-5389-4808-9430-e5bfdd2a0310" />
+</p>
+
+<p align='center'>
 <img width="421" height="225" alt="Tabulating Costs 2" src="https://github.com/user-attachments/assets/a44a3e52-893b-4d04-b382-2e6a1385578d" />
 </p>
 
