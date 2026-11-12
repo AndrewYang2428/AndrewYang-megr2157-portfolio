@@ -84,6 +84,8 @@ The nut and flange passed all of the tests with a pretty good margin, so we are 
 
 ## Design the Crosshead:
 
+Andrew's Part:
+
 ### Beam Stress/Strength Analysis:
 
 <img width="2633" height="3500" alt="IMG_1" src="https://github.com/user-attachments/assets/d06767e0-5339-40d6-8fc4-feb468410b30" />
@@ -109,6 +111,8 @@ The nut and flange passed all of the tests with a pretty good margin, so we are 
 </p>
 
 ## Parametric Modeling
+
+Andy's Part:
 
 I decided to model the crosshead first and then download all of the part files after. There isn't a reason for doing it in this order.
 
@@ -330,13 +334,29 @@ If you are interested in the CAD files, here is a [zip file](tensile_tester.zip)
 
 ## Lessons Learned:
 
-Andrew Yang:
-
 For this project, I was assigned to design the Crosshead of the Tensile Tester. For the Crosshead, I had to use the Stress/Strength Analysis and the Beam Deflection Analysis to calculate the parameters of the Crosshead as well as the material for the Crosshead. With this, I had to calculate for the height of the Crosshead using the Stress/Strength equation and the Deflection equation. By using these equations, I learned to make assumptions to get to a estimated calculation that fit the given parameters. To ensure that my calculations were correct, my team and I ran simulations on the Tensile Tester to test the Crosshead, making sure it worked properly. The FEA simulation shows what needs to be changed in the design to fit the parameters. I learned that the first simulation will most likely not work and changes will need to be made. I learned that projects like this will have trial and errors until there is a final solution that fits the constraints. 
 
 ## 2157 Students Only:
 
+### Model Setup:
 
+<img width="1262" height="709" alt="Fixture" src="https://github.com/user-attachments/assets/6af2d11c-f312-46cb-8110-05f3ddf5ece5" />
+
+<img width="1198" height="629" alt="Force" src="https://github.com/user-attachments/assets/31936915-9620-44ff-befb-9f6771e0f315" />
+
+### Meshing and Verification:
+
+<img width="1280" height="797" alt="Mesh" src="https://github.com/user-attachments/assets/3bb26b99-27f8-4eab-909d-b9f7a24b95af" />
+
+### Results to Report:
+
+<img width="1536" height="2048" alt="Delfection" src="https://github.com/user-attachments/assets/79671af7-cf02-45c8-8655-b940a3b87575" />
+
+### Optimization Pass:
+
+We first ran an FEA test with a medium mesh to get the results of the original design before we optimized anything. 
+
+However when we tried to run more tests on solidworks, it informed us that 62 elements on the downloaded CAD files have too small of radii for the software to complete the mesh. This created a halt in the optimization process. The above picture is the deflection data gathered from the first run.
 
 ### [Crosshead Drawing:](crosshead.SLDDRW)
 
