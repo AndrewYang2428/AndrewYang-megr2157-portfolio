@@ -65,7 +65,9 @@ Looking in the Machinery Handbook, I found that the RC3 Clearance Fit of the flo
 
 ## Lessons Learned:
 
-For Part 2 of this project, I learned that there are certain parts that won't fit correctly to your desire, but you have to choose something that comes close to what was calculated. I was not able to find a specific floating bearing mount that had the correct clearance that would work perfectly with what we calculated the Leadscrew diameter to be, but the one chosen was close enough to what we calculated, and it gave an estimated price as well. I learned that with these designs and models, the price for these projects can increase pretty fast. It is important to keep a "Bil of Cost" to keep track of amount of money it will take if we were to follow through with this design. It will also help us stay within the range of the budget for the project. When working in a team we have to take account of our teams work and make adjustments that will fit what they have as well. 
+#### Andrew's Lessons Learned:
+
+For Part 2 of this project, I learned that there are certain parts that won't fit correctly to your specifications, but you have to choose something that comes close to what was calculated. I was not able to find a specific floating bearing mount that had the correct clearance that would work perfectly with what we calculated the Leadscrew diameter to be, but the one chosen was close enough to what we calculated, and it gave an estimated price as well. I learned that with these designs and models, the price for these projects can increase pretty fast. It is important to keep a "Bill of Cost" to keep track of the amount of money it will take if we were to follow through with this design. It will also help us stay within the range of the budget for the project. When working in a team, we have to take into account our team's work and make adjustments that will fit what they have as well.
 
 ## 2157 Section: Designed Part Drawings
 
