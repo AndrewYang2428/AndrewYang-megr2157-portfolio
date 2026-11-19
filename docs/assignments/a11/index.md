@@ -58,6 +58,8 @@ Looking in the Machinery Handbook, I found that the RC3 Clearance Fit of the flo
 
 <p align = 'center'>
 <img width="387" height="552" alt="BillofCost1" src="https://github.com/user-attachments/assets/98fa6cef-b353-4525-8a95-7ab04e50c474" />
+</p>
+<p align = 'center'>
 <img width="387" height="80" alt="BillofCost2" src="https://github.com/user-attachments/assets/78805633-37ff-4a6f-b9c0-9383767b9212" />
 </p>
 
